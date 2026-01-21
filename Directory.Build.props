@@ -1,0 +1,22 @@
+<Project>
+    <PropertyGroup>
+        <Company>SAP SE</Company>
+        <Copyright>Copyright © SAP SE 2025</Copyright>
+        <Product>DeviceAccessService</Product>
+        <Description>Device Access Something TBD</Description>
+        <VersionPrefix>1.0.1</VersionPrefix>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <RuntimeIdentifiers>linux-x64</RuntimeIdentifiers>
+		<PlatformTarget>x64</PlatformTarget>
+        <LangVersion>latest</LangVersion>
+        <IncludeSymbols>true</IncludeSymbols>
+        <IsPublishable>false</IsPublishable>
+        <IsPackable>false</IsPackable>
+        <OutputType>Library</OutputType>
+		<NoWarn>VSTHRD200</NoWarn>
+        <EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+    </PropertyGroup>
+</Project>

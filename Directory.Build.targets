@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <Infra_Version>9.0.10</Infra_Version>
+    <Gigya_Common_Contracts_Version>9.0.10</Gigya_Common_Contracts_Version>
+    <Orleans_Version>3.7.2</Orleans_Version>
+    <UserManagement_Version>5.0.0</UserManagement_Version>
+  </PropertyGroup>
+</Project>
